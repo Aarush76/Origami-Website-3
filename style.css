@@ -1,0 +1,38 @@
+body{ 
+  background:  #008080; 
+  margin: 0px;
+}
+
+/*h1{ color: navy; }*/
+h4{ color: #FFFF00 }
+
+.bodyImg{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color:  #008080;
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 400;
+  color: #A70404;
+}
+
+.grid{
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+}
+
+.origami{
+  border: #FF0000;
+  justify-content: space-evenly;
+  border-radius: 20px;
+  background-color: #05DD22;
+  width: 310px;
+  font-family: fantasy;
+}
+
+.img{ padding-left: 40px;}
+
+
+    
